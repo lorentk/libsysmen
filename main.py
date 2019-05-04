@@ -1,7 +1,11 @@
 from tkinter import *
 import sqlite3
 from tkinter import messagebox
-
+# Author : Lorent Kosumi
+#   Type: Library System Manager
+#   Created in 2018
+#   
+#
 # konektohemi ne databaze
 
 conn = sqlite3.connect('database.db')
